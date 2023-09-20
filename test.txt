@@ -1,1 +1,2 @@
 Adding some text in a test file in git bash
+This text was added via github
